@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 64px;
+    background-image:linear-gradient(to bottom, black, purple);
+    color: lightgreen;
+    border-bottom:6px;
+    border-bottom-style: double;
+    border-color: black;
+    text-align: center;
+}
+body {
+    background-image: url(Dirt_\(texture\)_JE1_BE1.webp);
+}
+.textonorm {
+    background-blend-mode: color-burn;
+    background-color: black;
+    color: wheat
+}
