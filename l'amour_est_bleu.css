@@ -3,9 +3,9 @@ h1 {
     font-size: 64px;
     background-image: linear-gradient(to bottom, black, rgba(0,0,0,0)), url(images.jpeg);
     color: lightgreen;
-    border-bottom:6px;
-    border-bottom-style: double;
-    border-color: black;
+    border:3px;
+    border-style: double;
+    border-color: rgba(0,0,0,0.4);
     text-align: center;
 }
 h2 {
@@ -13,6 +13,19 @@ h2 {
     background-color: rgba(100,255,100,0.08);
     color: rgb(172, 98, 187);
     font-size: 36px;
+    text-align: center;
+}
+ul {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(255,255,50,0.08);
+    color:bisque;
+    text-align: justify;
+}
+ol {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(255,255,50,0.08);
+    color:bisque;
+    text-align: justify;
 }
 body {
     background-image: url(dirt.png)
@@ -37,4 +50,20 @@ body {
 .titulo{
     width: 800px;
     height: 150px;
+}
+a:link {
+    color: rgba(200,0,255);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(0, 255, 34);
+    text-decoration: none;
+}
+a:active {
+    color: rgb(255, 0, 191);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(187, 24, 24);
+    text-decoration: none;
 }
