@@ -34,7 +34,7 @@ ol {
 body {
     background-image: url(dirt.png)
 }
-.textonorm {
+p {
     font-family: Minecraft;
     background-color: rgba(155,0,185,0.15);
     background-blend-mode: color-dodge;
