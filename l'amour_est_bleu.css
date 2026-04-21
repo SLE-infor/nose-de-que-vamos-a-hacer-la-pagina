@@ -75,7 +75,8 @@ a:visited {
 }
 .icon {
     width:16px;
-    height:16px
+    height:16px;
+    float: left
 }
 nav {
     font-family: Minecraft;
