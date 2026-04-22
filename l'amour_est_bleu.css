@@ -34,9 +34,9 @@ ol {
 body {
     background-image: url(dirt.png)
 }
-.textonorm {
+p {
     font-family: Minecraft;
-    background-color: rgba(155,0,185,0.15);
+    background-color: rgba(155,0,185,0.06);
     background-blend-mode: color-dodge;
     color: wheat;
     text-align: justify;
@@ -70,13 +70,16 @@ a:active {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(187, 24, 24);
+    color: rgb(187, 100, 100);
     text-decoration: none;
 }
 .icon {
     width:16px;
     height:16px;
-    float: left
+    display: inline-block;
+    border-style:solid;
+    border-radius: 1px;
+    border-color: wheat;
 }
 nav {
     font-family: Minecraft;
