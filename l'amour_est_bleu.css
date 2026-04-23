@@ -5,7 +5,7 @@
 h1 {
     font-family: Minecraft;
     font-size: 64px;
-    background-image: linear-gradient(to bottom, black, rgba(0,0,0,0)), url(images.jpeg);
+    background-image: linear-gradient(to bottom, black, rgba(0,0,0,0)), url(imagenes/images.jpeg);
     color: lightgreen;
     border:3px;
     border-style: double;
@@ -32,7 +32,7 @@ ol {
     text-align: justify;
 }
 body {
-    background-image: url(dirt.png)
+    background-image: url(imagenes/dirt.png)
 }
 p {
     font-family: Minecraft;
