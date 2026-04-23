@@ -14,8 +14,8 @@ h1 {
 }
 h2 {
     font-family: Minecraft;
-    background-color: rgba(100,255,100,0.08);
-    color: rgb(172, 98, 187);
+    background-color: rgba(77, 158, 77, 0.356);
+    color: rgb(173, 131, 182);
     font-size: 36px;
     text-align: center;
 }
@@ -43,7 +43,7 @@ p {
 }
 .textosub {
     font-family: Minecraft;
-    background-color: rgba(155,0,185,0.15);
+    background-color: rgba(134, 46, 151, 0.418);
     background-blend-mode: color-dodge;
     color: wheat;
     text-align: justify;
@@ -58,7 +58,7 @@ p {
     height: 150px;
 }
 a:link {
-    color: rgba(200,0,255);
+    color: rgb(255, 196, 0);
     text-decoration: none;
 }
 a:hover {
@@ -77,6 +77,7 @@ a:visited {
     width:16px;
     height:16px;
     display: inline-block;
+    object-fit: scale-down;
     border-style:solid;
     border-radius: 1px;
     border-color: wheat;
@@ -84,4 +85,9 @@ a:visited {
 nav {
     font-family: Minecraft;
     background-color: rgba(255,255,50,0.08);
+}
+
+img {
+max-width: 100%;
+height: auto;
 }
