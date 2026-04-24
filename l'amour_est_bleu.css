@@ -51,7 +51,7 @@ p {
 }
 .sustitulo{
     width: 600px;
-    height: 150px;
+    height: 55px;
 }
 .titulo{
     width: 800px;
@@ -95,4 +95,8 @@ button {
     background-color: rgba(77, 158, 77, 0.1);
     color: rgb(255, 196, 0);
     border-color: rgba(77, 158, 77, 0.356);
+}
+.landscapes {
+    width:500px;
+    height: 300px;
 }
