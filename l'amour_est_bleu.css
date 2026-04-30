@@ -25,12 +25,14 @@ ul {
     background-color: rgba(255,255,50,0.08);
     color:bisque;
     text-align: justify;
+    font-size: 14px;
 }
 ol {
     font-family: Minecraft;
     background-color: rgba(255,255,50,0.08);
     color:bisque;
     text-align: justify;
+    font-size: 14px;
 }
 body {
     background-image: url(imagenes/dirt.png)
@@ -41,6 +43,7 @@ p {
     background-blend-mode: color-dodge;
     color: wheat;
     text-align: justify;
+    font-size: 14px;
 }
 .textosub {
     font-family: Minecraft;
@@ -49,6 +52,7 @@ p {
     color: wheat;
     text-align: justify;
     text-decoration: underline;
+    font-size: 14px;
 }
 .sustitulo{
     width: 600px;
