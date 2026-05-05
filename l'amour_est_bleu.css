@@ -64,19 +64,15 @@ p {
 }
 a:link {
     color: rgb(255, 196, 0);
-    text-decoration: none;
 }
 a:hover {
     color: rgb(0, 255, 34);
-    text-decoration: none;
 }
 a:active {
     color: rgb(255, 0, 191);
-    text-decoration: none;
 }
 a:visited {
     color: rgb(187, 100, 100);
-    text-decoration: none;
 }
 .icon {
     width:16px;
